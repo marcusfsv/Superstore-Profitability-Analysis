@@ -20,7 +20,7 @@ This project analyzes the profitability of a fictional superstore using real sal
 - Focus on improving performance in Central region and Furniture category
 - Monitor profit margins monthly
 
-## 📊 Profitability Analysis Summary
+## 📊 Dashboard Overview
 
 ![Profitability Analysis Summary](Profitability_Analysis_Screenshot.png)
 
