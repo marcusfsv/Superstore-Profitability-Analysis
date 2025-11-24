@@ -20,9 +20,13 @@ This project analyzes the profitability of a fictional superstore using real sal
 - Focus on improving performance in Central region and Furniture category
 - Monitor profit margins monthly
 
+## 📊 Profitability Analysis Summary
+
+![Profitability Analysis Summary](Profitability_Analysis_Screenshot.png)
+
 ## 📈 Methods Used
 
-- Excel: Functions and Pivot Tables & Charts
+- Excel: Functions, Pivot Tables, and Charts
 - Custom Banding for Segment Analysis
 - Descriptive Statistics and Statistical Validation
 
